@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "charmshots": {
+      "type": "http",
+      "url": "https://mcp.charmshots.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "charmshots",
+  "version": "1.0.2",
+  "description": "Browse existing Charmshots photoshoots, inspect photo metadata and retrieve owner-authenticated download links. Read-only access to your photo library; no generation or credit spending.",
+  "author": {
+    "name": "Charmshots",
+    "url": "https://charmshots.com"
+  },
+  "homepage": "https://charmshots.com",
+  "repository": "https://github.com/charmshots/plugin",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "claude",
+    "charmshots",
+    "ai-portraits",
+    "dating-photos",
+    "photoshoots",
+    "photo-library"
+  ],
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://charmshots.com/privacy/"
+}
